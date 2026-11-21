@@ -5,7 +5,8 @@ Esta pasta contém as apresentações desenvolvidas para o projeto de Sistemas d
 ## Arquivos
 
 - `Projeto - Etapas 1, 2 e 3.pptx` — versão utilizada durante as etapas iniciais do projeto.
-- `Projeto - SAD.pptx` — apresentação final do projeto.
+- `Projeto - SAD.pptx` — apresentação final do projeto em slide.
+- `Projeto - SAD.pdf` — apresentação final do projeto em pdf.
 
 ## Conteúdo da apresentação final
 
